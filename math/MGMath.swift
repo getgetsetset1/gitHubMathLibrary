@@ -8,8 +8,8 @@
 
 import Foundation
 
-class MGMath {
-    func add(a: Int, b: Int) -> Int {
+public class MGMath {
+    public func add(a: Int, b: Int) -> Int {
         return a + b
     }
     
